@@ -1,14 +1,14 @@
 # Tianyi Chen
 
 🎓 **Biostatistics @ Cornell University** | Data science + conservation ecology  
-🧪 Using data and machine learning to study marine behavior, plant science, and sustainability
+🧪 Using data and ML to study marine behavior, plant science, and sustainability
 
 ---
 
 ### 🔬 Completed Projects
 
 - 🐟 **Marine Behavior Analysis**  
-  *YOLO + MATLAB for fish behavior tracking; built Python pipeline to reduce annotation time by 50%.*
+  *Hein Lab of Computation Ecology; built Python pipeline to reduce annotation time by 50%.*
 
 - 🌿 **Cancer Drug Response Prediction**  
   *Trained TensorFlow model on IC50 datasets; improved test loss and explored ML interpretability.*
@@ -20,6 +20,6 @@
 
 ### 🔗 Connect
 
-- 🌐 [Personal site (Carrd)](https://tianyichen.carrd.co)  
+- 🌐 [Personal Site + Resume (Carrd)](https://tianyichen.carrd.co)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tchen06/)  
 - 📬 tc757@cornell.edu
