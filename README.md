@@ -7,7 +7,7 @@
 
 ### 🔬 Completed Projects
 
-- 🐟 **Marine Behavior Analysis**  
+- 🐟 **Marine Video Filtering Pipeline**  
   *Hein Lab of Computation Ecology; built Python pipeline to reduce annotation time by 50%.*
 
 - 🌿 **Cancer Drug Response Prediction**  
