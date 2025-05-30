@@ -1,7 +1,6 @@
 # Tianyi Chen
 
-🎓 **Biostatistics @ Cornell University** | Data science + conservation ecology  
-🧪 Using data and ML to study marine behavior, plant science, and sustainability
+🎓 **Biostatistics @ Cornell University** | Data science + Conservation Ecology  
 
 ---
 
