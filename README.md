@@ -1,6 +1,6 @@
 # Tianyi Chen
 
-🎓 **Biostatistics @ Cornell University** | Data science + Conservation Ecology  
+🎓 **Biometry + Statistics @ Cornell University** | Data science, Conservation Ecology  
 
 ---
 
