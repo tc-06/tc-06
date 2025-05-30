@@ -8,10 +8,10 @@
 ### 🔬 Completed Projects
 
 - 🐟 **Marine Video Filtering Pipeline**  
-  *Hein Lab of Computation Ecology; built Python pipeline to reduce annotation time by 50%.*
+  *Hein Lab of Computation Ecology; Python video data filtering pipeline to reduce annotation time by 50%.*
 
 - 🌿 **Cancer Drug Response Prediction**  
-  *Trained TensorFlow model on IC50 datasets; improved test loss and explored ML interpretability.*
+  *Trained TensorFlow model on Kaggle IC50 dataset; improved test loss and explored ML interpretability.*
 
 - 📊 **NYC School Transit & Graduation Report**  
   *Led 13-page investigation in Cornell Data Journal with 8 data visualizations.*
